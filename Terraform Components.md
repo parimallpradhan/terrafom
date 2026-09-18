@@ -13,9 +13,9 @@ Then build the project step by step.
 
 # 🏗️ Terraform Components — Fresher Hands-On
 
-## 1. Start with the real-world story
+## 1. Real Use Case
 
-Tell students:
+
 
 > "Imagine I am a DevOps engineer. My developer team asks me to create an EC2 server in AWS. Instead of creating it manually from the AWS Console, I want Terraform to create it."
 
