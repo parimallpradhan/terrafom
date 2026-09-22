@@ -161,7 +161,7 @@ terraform {
 }
 ```
 
-### Explain these lines to students
+### Explain 
 
 ```hcl
 backend "s3"
